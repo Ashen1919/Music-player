@@ -1,0 +1,6 @@
+D:\Java Application\Music_player\Songs\01. Imagine (John Lennon).mp3
+D:\Java Application\Music_player\Songs\1 - Hotel California.mp3
+D:\Java Application\Music_player\Songs\Beatles - Hey Jude.mp3
+D:\Java Application\Music_player\Songs\Ed Sheeran - Shape Of You.mp3
+D:\Java Application\Music_player\Songs\Nirvana - Smells Like Teen Spirit.mp3
+D:\Java Application\Music_player\Songs\Queen%20-%20Bohemian%20Rhapsody%20(with%20lyrics).mp3
